@@ -1,4 +1,8 @@
 mon-plugins
 ===========
 
-Nagios/op5 monitoring plugins
+Monitoring plugins for work & fun.
+
+
+
+
